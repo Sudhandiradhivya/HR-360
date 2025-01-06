@@ -1,0 +1,21 @@
+JobRoleID,JobRoleName,JobDescription,DepartmentID,RoleType
+1,Sales Manager,Responsible for overseeing the sales department and meeting sales targets.,1,Non-Technical
+2,Sales Executive,Executes sales strategies and engages with customers to close sales.,1,Non-Technical
+3,Sales Support,Provides administrative support to the sales team.,1,Non-Technical
+4,Account Manager,Manages key accounts and ensures customer satisfaction.,1,Non-Technical
+5,Business Development Manager,Oversees business development and forms new client relationships.,1,Non-Technical
+6,Marketing Director,Oversees marketing strategies and campaigns.,2,Non-Technical
+7,Digital Marketing Specialist,"Specializes in digital campaigns, SEO, SEM, and social media marketing.",2,Technical
+8,Content Strategist,Develops content strategies and manages editorial calendars.,2,Non-Technical
+9,SEO Specialist,Focuses on improving search engine rankings through SEO tactics.,2,Technical
+10,Brand Manager,Leads and manages brand development and communication strategies.,2,Non-Technical
+11,IT Support,Provides technical support and manages IT infrastructure.,3,Technical
+12,System Administrator,Manages and configures the company’s IT systems and networks.,3,Technical
+13,Network Engineer,Ensures the network is secure and runs efficiently.,3,Technical
+14,Database Administrator,Administers company databases and ensures data integrity.,3,Technical
+15,HR Manager,"Manages HR activities like recruitment, training, and employee relations.",4,Non-Technical
+16,HR Specialist,Assists in HR activities such as payroll processing and employee onboarding.,4,Non-Technical
+17,Finance Analyst,Analyzes financial data and helps with budgeting and forecasting.,5,Non-Technical
+18,Financial Controller,"Oversees the financial health of the organization, ensuring compliance and reporting.",5,Non-Technical
+19,Budget Analyst,Monitors and manages the company’s budgeting process.,5,Non-Technical
+20,Tax Manager,Oversees tax compliance and ensures the company adheres to tax regulations.,5,Non-Technical

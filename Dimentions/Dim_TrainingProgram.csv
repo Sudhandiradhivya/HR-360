@@ -1,0 +1,21 @@
+TrainingProgramID,TrainingName,TrainingCategory,TrainingDuration,TrainingType
+1,Cybersecurity Awareness,Security,16,Mandatory
+2,Python for Data Science,Technical,40,Optional
+3,Cloud Computing Fundamentals,Technical,24,Mandatory
+4,Project Management Basics,Soft Skills,30,Optional
+5,Agile Methodologies,Soft Skills,20,Mandatory
+6,AWS Certified Solutions Architect,Technical,50,Mandatory
+7,Machine Learning for Beginners,Technical,32,Optional
+8,Leadership Development Program,Soft Skills,40,Mandatory
+9,DevOps Practices,Technical,36,Optional
+10,Data Privacy Regulations (GDPR),Compliance,8,Mandatory
+11,Incident Response and Handling,Security,24,Mandatory
+12,Big Data Analytics with Hadoop,Technical,48,Optional
+13,Java Programming for Beginners,Technical,36,Mandatory
+14,Business Communication Skills,Soft Skills,20,Optional
+15,Blockchain Technology Overview,Technical,32,Mandatory
+16,ITIL Foundation Certification,Compliance,40,Optional
+17,Certified Ethical Hacker (CEH),Security,60,Mandatory
+18,Robotic Process Automation (RPA),Technical,30,Optional
+19,Data Science with R,Technical,40,Optional
+20,Soft Skills for IT Professionals,Soft Skills,24,Optional
